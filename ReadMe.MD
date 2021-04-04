@@ -126,10 +126,10 @@ during university and also on other platforms such as Coursera, Edx, NPTEL, Udem
 </details>
 
 ## Autodesk
-- [AutoCAD] [🎓](https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=353&cvid=6VVAPr+1r9GiMbsNirTR2A==)
-- [Revit] [🎓](https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=357&cvid=E0X5/zNgCtYpxU5ToG1vbg==)
+- [AutoCAD 🎓](https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=353&cvid=6VVAPr+1r9GiMbsNirTR2A==)
+- [Revit 🎓](https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=357&cvid=E0X5/zNgCtYpxU5ToG1vbg==)
 - [3DS Max] 
-- [Generative Design for Additive Manufacturing-Fusion 360] [🎓](https://www.coursera.org/account/accomplishments/verify/7YCYTKTJ5WUA)
+- [Generative Design for Additive Manufacturing-Fusion 360 🎓](https://www.coursera.org/account/accomplishments/verify/7YCYTKTJ5WUA)
 
 ## Coursera
 ### Courses
