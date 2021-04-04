@@ -133,10 +133,10 @@ during university and also on other platforms such as Coursera, Edx, NPTEL, Udem
 
 ## Coursera
 ### Courses
-- [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) [🎓](https://www.coursera.org/account/accomplishments/verify/VQ4U7BEXADKH)
-- [Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics) [🎓](https://www.coursera.org/account/accomplishments/verify/L974NFW9WMK3) [:octocat:](https://github.com/Barcaboy-Ovid/Computer-Vision_Basics)
-- [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) [:octocat:](https://github.com/Barcaboy-Ovid/Crash-Course-on-Python)
-- [Generative Design for Additive Manufacturing](https://www.coursera.org/learn/generative-design-additive-manufacturing) [🎓](https://www.coursera.org/account/accomplishments/verify/7YCYTKTJ5WUA)
+- [AI For Everyone ~ Deeplearning.ai](https://www.coursera.org/learn/ai-for-everyone) [🎓](https://www.coursera.org/account/accomplishments/verify/VQ4U7BEXADKH)
+- [Computer Vision Basics ~ University at Buffalo & The State University of New York](https://www.coursera.org/learn/computer-vision-basics) [🎓](https://www.coursera.org/account/accomplishments/verify/L974NFW9WMK3) [:octocat:](https://github.com/Barcaboy-Ovid/Computer-Vision_Basics)
+- [Crash Course on Python ~ Google](https://www.coursera.org/learn/python-crash-course) [:octocat:](https://github.com/Barcaboy-Ovid/Crash-Course-on-Python)
+- [Generative Design for Additive Manufacturing ~ Autodesk](https://www.coursera.org/learn/generative-design-additive-manufacturing) [🎓](https://www.coursera.org/account/accomplishments/verify/7YCYTKTJ5WUA)
 ### Specializations
 - [MATLAB Programming for Engineers and Scientists Specialization ~ Vanderbilt University](https://www.coursera.org/specializations/matlab-programming-engineers-scientists)
     - [Introduction to Programming With MATLAB](https://www.coursera.org/learn/matlab)
