@@ -194,5 +194,5 @@ during university and also on other platforms such as Coursera, Edx, NPTEL, Udem
 - [Deep Learning Onramp](https://in.mathworks.com/learn/tutorials/deep-learning-onramp.html)
 
 ## Internshala
-- [Staad Pro] [🎓](https://drive.google.com/file/d/1GoF8pZzvdrC8qP4Bu0gEaXhmOtkg24e3/view)
+- [Staad Pro 🎓](https://drive.google.com/file/d/1GoF8pZzvdrC8qP4Bu0gEaXhmOtkg24e3/view)
 
