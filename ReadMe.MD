@@ -137,8 +137,6 @@ during university and also on other platforms such as Coursera, Edx, NPTEL, Udem
 - [Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics) [🎓](https://www.coursera.org/account/accomplishments/verify/L974NFW9WMK3) [:octocat:](https://github.com/Barcaboy-Ovid/Computer-Vision_Basics)
 - [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) [:octocat:](https://github.com/Barcaboy-Ovid/Crash-Course-on-Python)
 - [Generative Design for Additive Manufacturing](https://www.coursera.org/learn/generative-design-additive-manufacturing) [🎓](https://www.coursera.org/account/accomplishments/verify/7YCYTKTJ5WUA)
-### Auditing
-- [Machine Learning (Andrew Ng) ~Stanford](https://www.coursera.org/learn/machine-learning) 
 ### Specializations
 - [MATLAB Programming for Engineers and Scientists Specialization ~ Vanderbilt University](https://www.coursera.org/specializations/matlab-programming-engineers-scientists)
     - [Introduction to Programming With MATLAB](https://www.coursera.org/learn/matlab)
@@ -147,8 +145,10 @@ during university and also on other platforms such as Coursera, Edx, NPTEL, Udem
 - [Deep Learning ~ deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
     - [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) 
     - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) 
+### Auditing
+- [Machine Learning (Andrew Ng) ~Stanford](https://www.coursera.org/learn/machine-learning) 
     
-## EDx
+## edX
 ### Certified 
 - [EcodesignX: Ecodesign for Cities and Suburbs](https://learning.edx.org/course/course-v1:UBCx+EcodesignX+2T2017/home) [🎓](https://courses.edx.org/certificates/1d3eaa96d0774c35abf0c2bc51979a90)
 ### Auditing
