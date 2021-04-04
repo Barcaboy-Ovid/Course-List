@@ -158,10 +158,10 @@ during university and also on other platforms such as Coursera, Edx, NPTEL, Udem
 ### Certified 
 #### Civil
 - [RCC-Road bridges](https://nptel.ac.in/courses/105/105/105105165/) [🎓](https://nptel.ac.in/content/noc/NOC18/SEM2/Ecertificates/105/noc18-ce23/Course/NPTEL18CE23S220800191810140572.jpg)
-- [Traditional and Non-Traditional Optimization Tools](https://nptel.ac.in/courses/112/105/112105235/) [🎓](https://drive.google.com/file/d/1dgeJPKLMJ8htqmGSHv7RD0iP_MybG7G0/view)
+- [Developmenet and application of Special Concretes](https://nptel.ac.in/courses/105/104/105104206/) [🎓](https://drive.google.com/file/d/1tOMjEWIk6j4Ra-ZCE_tw0v1i8Kc2K9n2/view)
 - [Mainteneance and Repair of Concerte structures](https://nptel.ac.in/courses/105/106/105106202/) 
 #### Mechanical
-- [Developmenet and application of Special Concretes](https://nptel.ac.in/courses/105/104/105104206/) [🎓](https://drive.google.com/file/d/1tOMjEWIk6j4Ra-ZCE_tw0v1i8Kc2K9n2/view)
+- [Traditional and Non-Traditional Optimization Tools](https://nptel.ac.in/courses/112/105/112105235/) [🎓](https://drive.google.com/file/d/1dgeJPKLMJ8htqmGSHv7RD0iP_MybG7G0/view)
 #### Computer Science
 - [Machine Learning-ML](https://nptel.ac.in/courses/106/106/106106202/) 
 ### Auditing 
