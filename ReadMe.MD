@@ -9,7 +9,7 @@ during university and also on other platforms such as Coursera, Edx, NPTEL, Udem
 - [B. Tech Civil Engineering @ GCT](#Civil--Engineering--Government--College--of--Technology--Coimbatore--Anna--University)
 - [Autodesk](#Autodesk)
 - [Coursera](#Coursera)
-- [Edx](#Edx)
+- [edX](#Edx)
 - [NPTEL](#Nptel)
 - [Udemy](#Udemy)
 - [Mathworks](#Mathworks)
